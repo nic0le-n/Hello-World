@@ -73,6 +73,6 @@ a:link {
   #cats {
     display: flex;
     flex-wrap: wrap;
-    align-items:space-around
+    justify-content: space-around;
   
   }
