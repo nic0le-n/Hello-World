@@ -1,9 +1,8 @@
 h1{
     color: #ff00bb;
     text-align: center;
-    font-size: 30pt;
-    font-family: "Badeen Display", serif;
-    font-weight: 100;
+    font-size: 40pt;
+    font-family: "Oi", serif;
     padding-top: 5px;
     padding-bottom: 0px;
 }
@@ -29,6 +28,8 @@ h3{
 
 p{
     color: #9afdff;
+    font-family: helvetica;
+
 }
 
 div{
@@ -62,9 +63,9 @@ a:link {
   }
 
 
-  .badeen-display-regular {
-    font-family: "Badeen Display", serif;
-    font-weight: 200;
+  .oi-regular {
+    font-family: "Oi", serif;
+    font-weight: 400;
     font-style: normal;
   }
   
