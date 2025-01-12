@@ -69,3 +69,9 @@ a:link {
     font-style: normal;
   }
   
+
+  #cats {
+    display: flex;
+    align-items:stretch
+  
+  }
