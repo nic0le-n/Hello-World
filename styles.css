@@ -2,7 +2,9 @@ h1{
     color: #ff00bb;
     text-align: center;
     font-size: 40pt;
-    font-family: "gridlite-pe-variable",sans-serif;
+    font-family: gridlite-pe-variable, sans-serif;
+    font-style: normal;
+    font-variation-settings: "BACK" 1, "ELSH" 3, "RECT" 1, "wght" 900;
     padding-top: 5px;
     padding-bottom: 0px;
 }
