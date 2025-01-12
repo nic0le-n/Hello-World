@@ -2,7 +2,7 @@ h1{
     color: #ff00bb;
     text-align: center;
     font-size: 40pt;
-    font-family: "Kalnia Glaze", serif;
+    font-family: "Badeen Display", serif;
     padding-top: 5px;
     padding-bottom: 0px;
 }
@@ -61,7 +61,9 @@ a:link {
   }
 
 
-.kalnia-glaze-uniquifier {
-  font-family: "Kalnia Glaze", serif;
-  font-optical-sizing: auto;
-}
+  .badeen-display-regular {
+    font-family: "Badeen Display", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
