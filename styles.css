@@ -2,9 +2,7 @@ h1{
     color: #ff00bb;
     text-align: center;
     font-size: 40pt;
-    font-family: gridlite-pe-variable, sans-serif;
-    font-style: normal;
-    font-variation-settings: "BACK" 1, "ELSH" 3, "RECT" 1, "wght" 900;
+    font-family: "Kalnia Glaze", serif;
     padding-top: 5px;
     padding-bottom: 0px;
 }
@@ -61,3 +59,9 @@ a:link {
     justify-content: right;
     padding-right: 50px;
   }
+
+
+.kalnia-glaze-uniquifier {
+  font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+}
