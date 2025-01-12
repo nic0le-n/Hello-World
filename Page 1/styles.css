@@ -69,22 +69,12 @@ a:link {
     font-style: normal;
   }
   
-  .flex-container {
-    border: 2px solid #000;
+  .cats {
+    border: 2px solid #000000;
     width: 600px;
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
-    padding: 20px;
-    border-radius: 5px;
+    justify-content: center;
+    align-items: center space-around;
   }
   
-  .flex-item {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(255, 106, 0);
-    padding: 20px 50px;
-    border-radius: 5px;
-    flex: 1;
-  }
