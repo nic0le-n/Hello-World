@@ -72,6 +72,7 @@ a:link {
 
   #cats {
     display: flex;
-    align-items:stretch
+    flex-wrap: wrap;
+    align-items:space-around
   
   }
