@@ -70,11 +70,13 @@ a:link {
   }
   
   .cats {
+
     border: 2px solid #ff00ae;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: auto
+    align-items: center;
+    margin: auto;
 
   }
   
